@@ -1,0 +1,63 @@
+¿Qué es un linter?
+
+-es una herramienta utilizada para detectar errores ya sean de sintaxis,
+ malas practicas, problemas de lógiica, o estilos no cumplidos.
+
+
+¿Qué es Husky?
+
+-es una herramineta que facilita la automatización de tareas antes de hacer un commit en git,
+ de modo que asegura la calidad y consistencia del código.
+
+
+¿Qué es la reactividad?
+
+-es aquello que vincula datos de un componente con la vista, de modo que los datos
+ se muestran en la interfaz intantáneamente.
+
+
+
+¿Desde dónde hay que crear todas las ramas para los desarrollos?
+
+-desde la rama main
+
+
+
+¿Cuándo se puede utilizar la rama main?
+
+-nunca debe de utilizarse, hay que crear braches a partir de ella y utilizar las branches.
+
+
+
+¿Qué son las custom properties?
+
+-son variables CSS que permiten almacenar y reutilizar valores de CSS como las fuentes, colores etc.
+
+
+
+Diferencias entre v-if y v-show
+
+-el v-if a diferencia del v-show, agreaga o elimina elementos del DOM,
+ en cambio el v-show, no elimina elementos del DOM simplemente se oculta usando
+ el "display:none" en CSS.
+
+
+
+¿Cuáles son los valores de falsy?
+
+-udefined, null, NaN, false,0,
+'-0' (number negative zero),'0n' (big int zero),"" (empty string), 'document.all' (object)
+
+
+
+¿Qué es Nullish Coalescing Operator?
+
+- es un operador utilizado para comparar valores falsy. 
+Se escribe asi: ?? y equivale al 'OR' O '||'
+
+
+
+¿Para que se utiliza TypeScript?
+
+-Se utiliza para mejorar el desarrollo ya que utiliza un sistema tipado estatico
+ y permite detectar errores en timpo de compilación en vez de en tiempo de ejecución.
