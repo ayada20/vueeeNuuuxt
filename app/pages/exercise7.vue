@@ -1,6 +1,4 @@
-<script setup lang="ts">
-import ParentComponent from "@/pages/components/ParentComponent.vue";
-</script>
+<script setup lang="ts"></script>
 <template>
   <div>
     <ParentComponent />
